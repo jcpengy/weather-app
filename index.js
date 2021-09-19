@@ -80,7 +80,7 @@ form.addEventListener("submit", e => {
             // add list element to list 
             document.getElementById('cities').appendChild(listEl); 
             // clear message 
-            document.getElementById("message").innerHTML = "";      
+            document.getElementById("message").innerHTML = "";   
         }
         
 
